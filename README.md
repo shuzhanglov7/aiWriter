@@ -1,4 +1,4 @@
-# aiWriter - 智能录音笔
+# aiWriter - 智能录音笔-shz
 基于Java开发，集成HttpClient调用AI语音识别云服务
 
 # 依赖环境
